@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">plantify_user</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Plant tracker</string>
+    <string name="nav_header_subtitle">care plant</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_home_nav_title">My Collection</string>
+    <string name="menu_add_new">New Plant</string>
+    <string name="menu_watering_calendar_title">Calendar</string>
+    <string name="menu_watering_calendar">Watering Calendar</string>
+
+    <string name="plant_name">Plant name: </string>
+    <string name="next_watering">Next Watering: </string>
+    <string name="age">Age: </string>
+    <string name="plant_img_description">Plant image</string>
+    <string name="img_button_description">an image button</string>
+    <string name="img_description">An image</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="date_format1">XX/XX/20XX</string>
+    <string name="date_format2">XX/xx</string>
+    <string name="date_format3">XX/XX days/months</string>
+    <string name="setting_fragment_text">bam bam</string>
+    <string name="floating_button_home_description">button to add new plant</string>
+    <string name="search_plant">Search Plant:</string>
+    <string name="add_note_hint">Notes:</string>
+    <string name="notes">Notes</string>
+
+    <string name="add_plant_save_button_label">Save</string>
+    <string name="add_plant_title">Schedule your plants!</string>
+    <string name="add_plant_editText_name">Name</string>
+    <string name="add_plant_editText_birthday">Birthday (optional)</string>
+    <string name="add_plant_camera_button_content_description">Opens the camera to take a photo of your plant</string>
+    <string name="add_plant_photo_preview_content_description">Photo (optional)</string>
+    <string name="add_plant_interval_days">Days</string>
+    <string name="add_plant_interval_hours">Hours</string>
+    <string name="add_plant_interval_minutes">Minutes</string>
+    <string name="add_plant_watering_interval_label">Water every:</string>
+    <string name="add_plant_no_interval_message">No watering interval provided</string>
+    <string name="add_plant_no_name_message">Name is empty</string>
+    <string name="add_plant_success_message">Plant added successfully</string>
+    <string name="plant_no_age_message">No birthday :(</string>
+    <string name="plant_very_young_message">Newborn</string>
+
+    <string-array name="duration_formatter_YMDhm_labels_singular">
+        <item>year</item>
+        <item>month</item>
+        <item>day</item>
+        <item>hour</item>
+        <item>minute</item>
+    </string-array>
+    <string-array name="duration_formatter_YMDhm_labels_plural">
+        <item>years</item>
+        <item>months</item>
+        <item>days</item>
+        <item>hours</item>
+        <item>minutes</item>
+    </string-array>
+    <string name="add_plant_photo_preview_description">Preview of the plant\'s photo taken</string>
+    <string name="string_about">Hello world testing app by bam</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_watered">Just watered</string>
+    <string name="date_planted">Date planted: </string>
+    <string name="water_every">Water every: </string>
+    <string name="days">days</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="notification_title">Plant Watering Reminder</string>
+    <string name="notification_message">It\'s time to water your plant: %1$s!</string>
+    <string name="formatter_water_now_message">Water now</string>
+    <string name="details_nav_title">Details</string>
+    <string name="details_just_watered_response">Watered!</string>
+    <string name="details_delete_plant_dialogue">Delete this plant?</string>
+    <string name="details_delete_success_response">Deleted!</string>
+    <string name="time_to_next_under_minute">Water in a minute</string>
+        <string name="notification_channel_name">Plant Notification Channel</string>
+        <string name="notification_channel_description">Notifications for plant watering reminders</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

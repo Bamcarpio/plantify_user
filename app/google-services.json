@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "249628416415",
+    "firebase_url": "https://crud-2d0a2-default-rtdb.firebaseio.com",
+    "project_id": "crud-2d0a2",
+    "storage_bucket": "crud-2d0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249628416415:android:0936924864176ba39885aa",
+        "android_client_info": {
+          "package_name": "com.example.plantify_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249628416415-ov51vptq0b4an4b975iogvld9vbm8oko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantify_admin",
+            "certificate_hash": "afd661f676882c05400c0b88f2b6d96787811d35"
+          }
+        },
+        {
+          "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUHK9O3lR0Ad2Yr6Rv0R7-z6HuZMWJtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249628416415:android:e81915d68c0738a59885aa",
+        "android_client_info": {
+          "package_name": "com.example.plantify_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUHK9O3lR0Ad2Yr6Rv0R7-z6HuZMWJtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249628416415:android:9c1e9d0d54d520ba9885aa",
+        "android_client_info": {
+          "package_name": "com.shoppy.plantify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUHK9O3lR0Ad2Yr6Rv0R7-z6HuZMWJtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249628416415-f24805fnevsa2qhccm720jjuc6glq63g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

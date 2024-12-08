@@ -1,0 +1,5 @@
+com.example.plantify_user.test.app-core-1.6.1-0 C:\Users\Administrator\.gradle\caches\transforms-4\9748b85e7f053dbdc4b7c5a8eadfdd10\transformed\core-1.6.1\res
+com.example.plantify_user.test.app-androidTest-1 C:\Users\Administrator\AndroidStudioProjects\plantify_user-main\app\build\generated\res\resValues\androidTest\debug
+com.example.plantify_user.test.app-mergeDebugAndroidTestResources-2 C:\Users\Administrator\AndroidStudioProjects\plantify_user-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.plantify_user.test.app-mergeDebugAndroidTestResources-3 C:\Users\Administrator\AndroidStudioProjects\plantify_user-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.plantify_user.test.app-merged_res-4 C:\Users\Administrator\AndroidStudioProjects\plantify_user-main\app\build\intermediates\merged_res\debugAndroidTest

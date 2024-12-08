@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_deliveries.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_deliveries.xml"
+    },
+    {
+        "merged": "com.example.plantify_user.app-merged_res-59:/layout_activity_mains.xml.flat",
+        "source": "com.example.plantify_user.app-main-61:/layout/activity_mains.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_feedback_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\feedback_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_activity_mains.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\activity_mains.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_border_edit_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\border_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_ic_watering.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\ic_watering.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_home_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_default_flower.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\default_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_order_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\order_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_user_settings.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_user_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_product_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\product_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_image_menu_logo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\image_menu_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\menu_menu_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\menu\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_ic_watering.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\ic_watering.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_cart_card_checkout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\cart_card_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_alarm.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_add_new.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_add_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_sched_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\sched_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_dialog_add_schedule.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\dialog_add_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_confirm_order.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_product_rating_comment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\product_rating_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_comment_feedback.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\comment_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_delivery_product_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_delivery_product_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_plant_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\plant_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\baseline_book_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_plant_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\plant_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_water_calendar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_water_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_item_message_sent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\item_message_sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_card_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_list_comment.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\list_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_checkouts.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_checkouts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_item_message_received.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\item_message_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_product_qty_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\product_qty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_item_alarm.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\item_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_carts.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_carts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_default_plant_image.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\default_plant_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_default_flower.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\default_flower.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_checkout_card.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\checkout_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_baseline_add_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\baseline_add_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_product_items.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\product_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_image_placeholder_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\image_placeholder_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_feedbacks.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_feedbacks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_fragment_product_info.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\fragment_product_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_dialog_add_alarm.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\dialog_add_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_menu_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_confirm_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_menu_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\menu_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_activity_water_plants.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\activity_water_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-merged_res-59:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\8.7\\com.example.plantify_user.app-main-61:\\drawable-mdpi\\ic_add.png"
+    }
+]
